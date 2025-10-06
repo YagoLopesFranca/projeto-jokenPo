@@ -14,6 +14,7 @@ body {
 
   background: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/33b36d46885231.58691a6ca7125.jpg")
     no-repeat bottom center fixed;
+  background-size: cover;
 }
 
 p {
